@@ -1,4 +1,4 @@
-#pokemon-types
+# pokemon-types
 
 In the Pokemon video games, an attack can be more or less effective against a certain Pokemon depending on the type of the attack and the type of the defending Pokemon. For example, a water type move is twice as effective against fire type Pokemon. 
 
